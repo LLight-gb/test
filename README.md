@@ -54,3 +54,5 @@ Learing the git and github by codebasics youtube channel
 ## git checkout <branch.name>
 > switched to that branch that you created . 
 
+## git push --set-upstream origin thirsty
+> it will push your branch too

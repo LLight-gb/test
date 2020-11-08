@@ -4,6 +4,7 @@ if hungry == 'yes':
     print('eat somosa')
     print('pizza is awesome')
     print('burger is awesome')
+    print('new branch on github keep in mind buddy')
 else:
     thirsty = input('are you hungry :')
 
