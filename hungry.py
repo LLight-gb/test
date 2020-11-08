@@ -9,3 +9,4 @@ else:
 
     if thirsty == 'yes':
         print('drink water')
+        print('need help please i wanted that')
