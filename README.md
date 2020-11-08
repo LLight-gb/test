@@ -34,4 +34,23 @@ Learing the git and github by codebasics youtube channel
 ## git diff 
 > doing samething as difftool works but it is best for that 
 
-##
+## git checkout --  // not working use git checkout <file.name>
+> undoing your uncommit changes on that file only
+> 
+## git checkout -- .
+> undoing your uncommit changes  all the file of root dir
+
+## git revert <commit.id>
+> undoing the commit that you made 
+## git revert -n <commit.id>
+> undoing the commit that you made but not truly change to commit means -n using then you can commit again with new messages
+
+## git reset --hard <commit.id>
+> reset tha change you made .
+
+## git branch <branch.name>
+> create copy branch of master or main branch 
+> 
+## git checkout <branch.name>
+> switched to that branch that you created . 
+
