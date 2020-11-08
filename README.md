@@ -1,3 +1,3 @@
 # test
 
-Learing the git and github by codebasics youtube channel
+**Learing the git and github by codebasics youtube channel
