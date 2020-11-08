@@ -27,3 +27,11 @@ Learing the git and github by codebasics youtube channel
 ## git push 
 
 > This commit push your code to remote server or on your github account . 
+
+## git difftool 
+> shows difference between you local changes to the previous changes 
+
+## git diff 
+> doing samething as difftool works but it is best for that 
+
+##
