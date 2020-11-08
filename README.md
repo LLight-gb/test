@@ -54,6 +54,3 @@ Learing the git and github by codebasics youtube channel
 ## git checkout <branch.name>
 > switched to that branch that you created . 
 
-
-## git merge <branch.name>
-> added the branch that wanted to merge into main or master branch or on which branch wanted to merge it 
